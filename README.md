@@ -1,16 +1,16 @@
 # vue-manage
 
-## 技术栈： Vue2.0+Vuex+Vue-router+axios+mock+element-ui+echarts
+技术栈： Vue2.0+Vuex+Vue-router+axios+mock+element-ui+echarts
 
-## 登录账号1：admin 密码:admin
+登录账号1：admin 密码:admin
 
-## 登录账号2：xiaoxiao 密码： xiaoxiao
+登录账号2：xiaoxiao 密码： xiaoxiao
 
-## 登陆界面
+登陆界面
 
-![image-20220523145854867](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145854867.png)
+![image-20220523145854867](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523150359999.png)
 
-## 后台界面
+后台界面
 
 ![image-20220523145854867](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145525615.png)
 
