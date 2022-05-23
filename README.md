@@ -1,24 +1,23 @@
 # vue-manage
 
-## Project setup
+技术栈： Vue2.0+Vuex+Vue-router+axios+mock+element-ui+echarts
+登录账号1：admin 密码:admin
+登录账号2：xiaoxiao 密码： xiaoxiao
+
+## 安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+跟着B站视频做的Vue2.0项目练习，项目和视频存在稍许差异且功能完成度未达到100%，后续发布完整版
+视频地址：https://www.bilibili.com/video/BV1QU4y1E7qo?p=1
