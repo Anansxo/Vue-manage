@@ -7,10 +7,10 @@
 登录账号2：xiaoxiao 密码： xiaoxiao
 
 登陆界面
-https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145854867.png
+![image-20220523145854867](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145854867.png)
 
 后台界面
-https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145525615.png
+![image-20220523145854867](https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145525615.png)
 
 ## 安装依赖
 ```
