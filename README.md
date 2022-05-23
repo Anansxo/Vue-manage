@@ -6,7 +6,11 @@
 
 登录账号2：xiaoxiao 密码： xiaoxiao
 
-![image-20220523145525615](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220523145525615.png)
+登陆界面
+https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145854867.png
+
+后台界面
+https://www.closedroom.cn/wp-content/uploads/2022/05/image-20220523145525615.png
 
 ## 安装依赖
 ```
