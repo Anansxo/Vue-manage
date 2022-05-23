@@ -6,6 +6,8 @@
 
 登录账号2：xiaoxiao 密码： xiaoxiao
 
+![image-20220523145525615](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220523145525615.png)
+
 ## 安装依赖
 ```
 yarn install
