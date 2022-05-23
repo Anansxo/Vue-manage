@@ -1,0 +1,10 @@
+/* 去除全局公共样式 */
+* {
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	user-select: none;
+}
+ul {
+	list-style: none;
+}
