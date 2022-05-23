@@ -1,7 +1,9 @@
 # vue-manage
 
 技术栈： Vue2.0+Vuex+Vue-router+axios+mock+element-ui+echarts
+
 登录账号1：admin 密码:admin
+
 登录账号2：xiaoxiao 密码： xiaoxiao
 
 ## 安装依赖
